@@ -88,12 +88,12 @@ Testing
 
 
 
-##solution to assignment 
+## solution to assignment 
 
-##Name
+## Name
 Bukola
 
-** Institution**
+**Institution**
 Glasgow
 
 **Hobbies**
